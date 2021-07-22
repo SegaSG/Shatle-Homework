@@ -1,0 +1,12 @@
+.task-5{
+	max-width: 1200px;
+	margin: 0 400px;
+}
+td, th{
+	
+	text-align: left;
+}
+.logo{
+	display: block;
+	width: 25%;
+}

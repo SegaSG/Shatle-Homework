@@ -1,0 +1,19 @@
+/* task1 */
+.rating {
+	width: 265px;
+	margin: 0 auto;
+}
+.rating span {
+	padding: 0;
+	font-size: 32px;
+	margin: 0 3px;
+	line-height: 1;
+	color: lightgrey;	
+}
+.rating > span:before {
+	content: '★';
+	cursor: pointer;
+}
+.rating > span.active {
+   color: #ffd000;
+}

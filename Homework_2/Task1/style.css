@@ -1,0 +1,10 @@
+/* Tasks For Lesson 2 */
+
+.task-1{
+	max-width: 1200px;
+	margin: 0 400px;
+}
+
+.inner__name, .inner__language, .inner__information, .inner__password, .inner__clear{
+	margin: 20px auto;
+}

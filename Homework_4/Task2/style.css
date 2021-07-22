@@ -1,0 +1,25 @@
+/* task2 */
+.wrapper {
+    width: 400px;
+    margin: 0 auto;    
+}
+  
+.progress-bar {
+
+    width: 100%;
+    background-color: #f3f2f2;
+    padding: 1px;
+    border-radius: 10px;
+    background: linear-gradient(#c9c7c7 5%, #f9f9fa 25%);      
+}
+.progress-bar-text{
+    margin-left: 190px;
+}
+  
+.progress-bar-fill {
+    display: block;
+    height: 22px;
+    background-color:#04bb41;
+    border-radius: 10px;
+   
+}
